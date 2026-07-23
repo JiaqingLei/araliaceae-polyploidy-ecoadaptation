@@ -1,0 +1,9 @@
+Species	Condition	R01	R02	R03	R04	R05	R06	R07	R08	R09
+Herb_Aco	White	3.84	4.19	4.57	4.25	NA	NA	NA	NA	NA
+Herb_Aco	Shade	4.85	4.24	3.38	NA	NA	NA	NA	NA	NA
+Herb_Aco	High	3.43	3.3	2.37	3.38	NA	NA	NA	NA	NA
+Herb_Aco	Low	6.08	5.73	5.88	4	NA	NA	NA	NA	NA
+Herb_Dca	White	2.93	2.62	2.7	2.7	2.73	2.84	NA	NA	NA
+Herb_Dca	Shade	2.55	2.59	2.17	2.11	2.1	2.72	2.27	NA	NA
+Herb_Dca	High	1.08	2.16	1.91	1.25	1.7	2.07	1.74	1.86	2.38
+Herb_Dca	Low	2.34	2.48	2.22	2.85	2.23	2.92	2.81	2.81	2.68

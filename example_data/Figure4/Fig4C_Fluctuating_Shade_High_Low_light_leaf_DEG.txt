@@ -1,0 +1,13 @@
+Symbol	Idchr	Fluctuation	Shade	High	Low
+CRY1	Ks|Arb_sub1	0	0	0	0
+CRY1	Ks|Arb_sub2	0	0	0	0
+CRY2	Ks|Ara_sub1	0	0	0	0
+CRY2	Ks|Ara_sub2	0	0	0	0
+CRY2	Ks|Arb_sub1	0	0	0	2
+CRY2	Ks|Arb_sub2	0	0	0	0
+PHOT1	Ks|Ara_sub2	0	0	0	0
+PHOT1	Ks|Ara_sub1	0	0	0	0
+PHOT1	Ks|Arb_sub2	0	0	0	0
+PHOT1	Ks|Arb_sub1	0	0	0	0
+PHOT2	Ks|Ara_sub1	0	0	0	0
+PHOT2	Ks|Ara_sub2	0	0	0	0

@@ -1,0 +1,9 @@
+Species	Condition	R01	R02	R03	R04	R05	R06	R07	R08	R09
+Herb_Aco	White	0.9	0.9	0.9	0.8	NA	NA	NA	NA	NA
+Herb_Aco	Shade	1.2	1	1	1	NA	NA	NA	NA	NA
+Herb_Aco	High	1.1	0.6	1.1	1	NA	NA	NA	NA	NA
+Herb_Aco	Low	0.6	0.7	0.6	NA	NA	NA	NA	NA	NA
+Herb_Dca	White	1.3	1.6	1.1	1.8	1.4	1.4	1.4	1.4	1.3
+Herb_Dca	Shade	1.8	1.7	1.5	1.4	1.5	1.6	1.5	2	1.7
+Herb_Dca	High	1.2	1.5	1.5	1.1	1.2	1.4	1.5	1.3	1.4
+Herb_Dca	Low	1	1.1	1.1	1.6	1.5	1.5	1.5	1.3	1.6

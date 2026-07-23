@@ -1,0 +1,2 @@
+Chr	Acosub1	Acosub2	Ada
+Radius	0.551006083	0.546926543	0.793435308

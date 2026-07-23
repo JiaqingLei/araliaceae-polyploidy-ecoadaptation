@@ -1,0 +1,2 @@
+Chr	Acosub1	Acosub2	Ada
+length	549395547	541290432	1139187981
