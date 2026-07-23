@@ -34,33 +34,45 @@ Representative example datasets are provided in the example_data directory. Thes
 ### 1. Figure1
 
 **repreat_gene_other_final.txt**: Genome component composition matrix used for the percentage stacked bar chart, including repeat classes, gene components, and other genomic components for each species.
+
 **length_pie.txt**: Input matrix used to generate species-specific pie charts. Each column corresponds to one species and contains values used for pie chart visualization.
+
 **radius.txt**: Genome size values used to scale the radius of species-specific pie charts.
+
 **5dup.txt**: Genomic duplication category matrix used for treemap visualization, including different duplication types across species.
 
 ### 2. Figure2
 
 **summary4_sort_negative_2.txt**: Gene number matrix assigned to different ancestral chromosome categories across species.
+
 **A0.merge.go2_A01**: GO category abundance matrix for ancestral chromosome-derived regions across species.
 
 ### 3. Figure3
 
 **Ac.csv**: Photosynthetic rate measurements under different PPFD values used for fitting light-response curves.
+
 **SLA.txt**: Specific leaf area measurements across species and experimental conditions.
+
 **H_length.txt**: Phenotypic trait measurements related to hydraulic characteristics.
+
 **P_length.txt**: Phenotypic trait measurements related to hydraulic characteristics.
+
 **Chl_content.txt**: Chlorophyll content measurements across species and experimental conditions.
+
 **00FvFm_14_herb-wood_4.txt**: Chlorophyll fluorescence measurements used for Fv/Fm analysis.
 
 ### 4. Figure4
 
 **new_summary.final.merge_plot.txt**: Expression diversity and specificity matrix containing gene class and species information.
+
 **Fig4C_Normal_light_leaf_FPKM.txt**: Gene expression matrix under normal light condition.
+
 **Fig4C_Fluctuating_Shade_High_Low_light_leaf_DEG.txt**: DEG pattern matrix corresponding to the four variable light treatments.
 
 ### 5. Figure5
 
 **acofpkmraw.hotosynthesis.txt**: Gene expression matrix of photosynthesis-related genes of Araliaceae species.
+
 - Row names: photosynthesis-related genes
 - First column: gene module assignment
 - Remaining columns: normalized expression values across samples
