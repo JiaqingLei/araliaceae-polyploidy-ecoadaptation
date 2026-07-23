@@ -23,7 +23,7 @@ COLUMN_ORDER <- c(
   "Ese|Ara_sub1", "Ese|Ara_sub2", "Ese|Arb_sub1", "Ese|Arb_sub2",     # E. senticosus
   "Tpa|Ara_sub1", "Tpa|Ara_sub2", "Tpa|Arb_sub1", "Tpa|Arb_sub2",     # T. papyrifer
   "Sar|Ara_sub1", "Sar|Ara_sub2", "Sar|Arb_sub1", "Sar|Arb_sub2",     # S. arboricola
-  "Ael|Ara", "Ael|Arb",                                               # A. elata                                          # A. elata
+  "Ael|Ara", "Ael|Arb",                                               # A. elata
   "Aco|Ara_sub1", "Aco|Ara_sub2", "Aco|Arb_sub1", "Aco|Arb_sub2",     # A. continentalis
   "Pqu|Ara_sub1", "Pqu|Ara_sub2", "Pqu|Arb_sub1", "Pqu|Arb_sub2",     # P. quinquefolius
   "Pgi|Ara_sub1", "Pgi|Ara_sub2", "Pgi|Arb_sub1", "Pgi|Arb_sub2"      # P. ginseng
