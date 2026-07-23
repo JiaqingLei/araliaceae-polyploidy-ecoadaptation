@@ -8,16 +8,18 @@ This repository contains the R scripts used to reproduce the figures presented i
 
 ## Repository structure
 
-Project/
+```
+araliaceae-polyploidy-ecoadaptation
 ├── example_data/
-│   ├── Figure1/
-│   ├── Figure2/
-│   ├── Figure3/
-│   ├── Figure4/
-│   └── Figure5/
+│    ├── Figure1/
+│    ├── Figure2/
+│    ├── Figure3/
+│    ├── Figure4/
+│    ├── Figure5/
 ├── scripts/
 ├── Protocol.md
 └── README.md
+```
 
 ## Software requirements
 
