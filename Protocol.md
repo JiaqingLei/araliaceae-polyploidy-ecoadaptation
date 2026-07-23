@@ -24,6 +24,7 @@ araliaceae-polyploidy-ecoadaptation
 ## Software requirements
 
 R 4.4.3
+
 Required packages include ggplot2, tidyr, treemapify, cowplot, data.table, pheatmap, ggplotify, reshape2, dplyr, Rmisc, ComplexHeatmap, circlize and grid.
 
 ## Example data
